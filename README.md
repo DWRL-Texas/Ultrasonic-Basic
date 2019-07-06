@@ -11,3 +11,4 @@ This tutorial offers instructions to set up a basic ultrasonic sensor (HC-SR04) 
 
 ## IDE Code:
 - Open the Arduino IDE, and we'll walk you through writing your first Arduino code!
+- (Note, the .ino file is included above)
